@@ -66,7 +66,7 @@ int main() {
 }
 ```
 
-## Table
+## MDT112 PROJECT : Lazy fan
 
 Colons can be used to align columns.
 
