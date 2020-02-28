@@ -68,15 +68,15 @@ int main() {
 
 ## MDT112 PROJECT : Lazy fan
 
-สมาชิก
+Mamber
 
-|     ชื่อ                 | ชื่อเล่น             | รหัสนักศึกษา     |   Github Profile Link |
-| -------------          |:-------------:   | -----:         |  MK-max               |
-| น.ส.อรวรรณ อ่อนแสง      | มังกร              | 62120501011   |                       |   
-| col 2 is               | centered         |   $12          |                       |
-| zebra stripes          | are neat         |    $1          |                       |
+|     Name                 | Nickname             | Student namber     |   Github Profile Link |
+| -------------            |:-------------:       | -----:             |  MK-max               |
+| Orawan onsang            | Mongkorn             | 62120501011        |                       |   
+| col 2 is                 | centered             |   $12              |                       |
+| zebra stripes            | are neat             |    $1              |                       |
 
-รายละเอียดโปรเจค
+Detail project
 The outer pipes (|) are optional, and you don't need to make the 
 raw Markdown line up prettily. You can also use inline Markdown.
 
