@@ -73,7 +73,7 @@ Mamber
 |     Name                 | Nickname             | Student namber     |   Github Profile Link |
 | -------------------------|:--------------------:| ------------------:|----------------------:|
 | Orawan onsang            | Mongkorn             | 62120501011        |   MK-max              |   
-| col 2 is                 | centered             |   $12              |                       |
+| Mananchaya Srisai                 | Nay             |  62120501064              |   Nay                    |
 | zebra stripes            | are neat             |    $1              |                       |
 
 Detail project
