@@ -71,8 +71,8 @@ int main() {
 Mamber
 
 |     Name                 | Nickname             | Student namber     |   Github Profile Link |
-| -------------            |:-------------:       | -----:             |  MK-max               |
-| Orawan onsang            | Mongkorn             | 62120501011        |                       |   
+| -------------------------|:--------------------:| ------------------:|----------------------:|
+| Orawan onsang            | Mongkorn             | 62120501011        |   MK-max              |   
 | col 2 is                 | centered             |   $12              |                       |
 | zebra stripes            | are neat             |    $1              |                       |
 
