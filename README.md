@@ -68,22 +68,62 @@ int main() {
 
 ## Table
 
-Colons can be used to align columns.
+Name Project : Eye Contact
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|     Name               |     Nickname      |         NO.        |    Github Profile Link          |  
+|------------------------|:-----------------:|-------------------:|--------------------------------:|
+| Sawarin Wannachawee    | Katoy             | 62120501079        | https://github.com/poohkatoy    |
+| Mananchaya Srisai      | Nay               | 62120501064        | https://github.com/mananssnay   |
+| Orawan onsang          | Mongkorn          | 62120501011        | https://github.com/MK-max       |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+Detail Project :
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+เป็นเครื่องตรวจวัดสายตา โดยมีสเนลล์เลนชาร์ต(Snellen's chart) เป็นต้นแบบ เนื่องจากรูปแบบของชาร์ตนั้นมีการจัดเรียงเป็นรูปแบบเดิมๆ 
+ซึ่งผู้ที่ตรวจวัดสายตาบ่อยๆ และไม่ต้องการใส่แว่น ก็มักจะจำรูปแบบของตัวเลข ทำให้ผูตรวจคิดไปว่าสายตาปกติดี
+กลุ่มของพวกเราจึงอยากออกแบบโดยการ random ตัวเลขมาให้ผู้ที่ต้องการตรวจอ่านตัวเลขออกมา ทั้งนี้จะมีฟังก์ชันอื่นๆอีก เช่น การตรวจวัดตาบอดสี
+การตรวจวัดอาการแพ้แสง การวัดสายตาเอียง เป็นต้น
+ 
+## PHYSICAL COMPUING
+### Perception
+- ปุ่มกด
+- ระยะห่าง
+- ความสูง
+- โวลุ่มปรับค่าความสว่าง
+
+
+###Behavior
+
+  1.กดปุ่มเพื่อเริ่มการทำงานของเครื่อง Eye Contact
+  
+  2.ตรวจเช็คระยะห่างเของอุปกรณ์ว่าตรงกับตำแหน่งที่ควรตั้งไว้หรือไม่ โดยการวัดระยะห่าง
+  
+  4.หากวางอุปกรณ์ตรงตามตำแหน่งแล้ว จะมีเสียงดังขึ้นเตือน หน้าจอจะบอกให้เลือกกดปุ่มว่าผู้ใช้ต้องการวัดสายตาด้านไหน
+  
+  5.เมื่อกดปุ่มแล้ว หน้าจอจะแรนดอมขึ้นภาพที่ใช้ในการวัดสายตาแบบที่ผู้ใช้เลือกมา1ภาพ
+  
+  6.ถ้าผู้ใช้มองเห็นภาพบนจอชัดเจน ให้กดปุ่ม "See"
+  
+  7.ถ้าผู้ใช้มองไม่เห็นภาพบนหน้าจอ ให้กดปุ่ม "No see"
+  
+  8.เมื่อกดปุ่มแล้ว หน้าจอจะแรนดอมภาพต่อไปขึ้นมา
+  
+  9.เมื่อดูภาพจนครบแล้ว หน้าจอจะบอกว่า "คุณมีสายตาปกติ/ไม่ปกติ" 
+  
+  10.ถ้าปกติจะบอกว่า"คุณมีสายตาที่ปกติ"
+  
+  11.ถ้าผิดปกติจะบอกว่า"คุณมีสายตาที่ผิดปกติ ควรตรวจวัดสายตา"
+  
+
+###Manipulation
+กลุ่มการมองเห็น
+- LED Red Green Blue
+- LED
+- LCD Display
+- OLED Dis Play
+กลุ่มอื่นๆ
+- Relay ควบคุมอุปกรณ์ไฟฟ้า
+- Random Number Generator 
+
 
 ## Blockquotes
 
@@ -91,6 +131,6 @@ Markdown | Less | Pretty
 > This line is part of the same quote.
 
 > Blockquotes are very handy in email to emulate reply text
-> This line is part of the same quote.
+> This line is part of the same quot
 
 Quote break.
