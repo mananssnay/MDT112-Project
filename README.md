@@ -41,6 +41,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ![alt text For Logo 2][logo]
 
 [logo]: https://github.com/ruangrith-ri/MDT112-Example-Markdown-File/blob/master/images/icon48.png "Logo Title Text"
+[flowchart]: https://github.com/poohkatoy/MDT112-Project/blob/master/Eye%20Contact.svg "Flowchart"
 
 ## Code and Syntax Highlighting
 
